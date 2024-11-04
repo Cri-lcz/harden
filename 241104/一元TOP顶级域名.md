@@ -13,13 +13,13 @@ www.west.cn
 https://www.west.cn/domains/com.asp
 ```
 
-![](assets/Pasted image 20241104002501.png)
+![image](https://raw.githubusercontent.com/Cri-lcz/harden/4cf3c923b7f76222fadb2ab811519cb952892408/241104/assets/Pasted%20image%2020241104002501.png)
 
 ### **注册领劵后首先要做的三件事**
 
 -   焦点放在右上角管理中心
 
-    ![](assets/Pasted image 20241104011159.png)
+    ![image](https://raw.githubusercontent.com/Cri-lcz/harden/4cf3c923b7f76222fadb2ab811519cb952892408/241104/assets/Pasted%20image%2020241104011159.png)
 
 -   账号认证 （实名 略）
 -   在线充值 （向账户充值一元 略）
@@ -29,7 +29,7 @@ https://www.west.cn/domains/com.asp
         - 使用资料填自己实名的信息
         - 填所有项目后重新填充身份证信息选择提交
 
-![](assets/Pasted image 20241104011449.png)
+![image](https://raw.githubusercontent.com/Cri-lcz/harden/4cf3c923b7f76222fadb2ab811519cb952892408/241104/assets/Pasted%20image%2020241104011449.png)
 
 ### **申请域名**
 
@@ -38,18 +38,18 @@ https://www.west.cn/domains/com.asp
 -   这里推荐使用单词再加上一个其他字母，如果是一个单词的域名就会很贵
 -   点击立即注册
 
-    ![](assets/Pasted image 20241104004550.png)
+    ![image](https://raw.githubusercontent.com/Cri-lcz/harden/4cf3c923b7f76222fadb2ab811519cb952892408/241104/assets/Pasted%20image%2020241104004550.png)
 
 -   下一步购买
 
         - 这里选择实名的信息并选择年限为一年
 
-    ![](assets/Pasted image 20241104004826.png)
+    ![image](https://raw.githubusercontent.com/Cri-lcz/harden/4cf3c923b7f76222fadb2ab811519cb952892408/241104/assets/Pasted%20image%2020241104004826.png)
 
 -   进入下一步后使用领取的优惠卷支付
 -   使用之前充值的余额支付后获得域名
 
-    ![](assets/Pasted image 20241104004903.png)
+    ![image](https://raw.githubusercontent.com/Cri-lcz/harden/4cf3c923b7f76222fadb2ab811519cb952892408/241104/assets/Pasted%20image%2020241104004903.png)
 
 -   购买后现在域名还不能使用，还需要过户
 
@@ -60,7 +60,7 @@ https://www.west.cn/domains/com.asp
 -   过户前域名的状态是 `hold` 此时不能配置
 -   提交过户后审核通过查看域名管理状态为正常域名就可以正常使用了
 
-    ![](assets/Pasted image 20241104005650.png)
+    ![image](https://raw.githubusercontent.com/Cri-lcz/harden/4cf3c923b7f76222fadb2ab811519cb952892408/241104/assets/Pasted%20image%2020241104005650.png)
 
 ### **域名解析**
 
@@ -70,7 +70,7 @@ https://www.west.cn/domains/com.asp
 
         - 这里使用腾讯和阿里的iP测试也可以
 
-    ![](assets/Pasted image 20241104010250.png)
+    ![image](https://raw.githubusercontent.com/Cri-lcz/harden/4cf3c923b7f76222fadb2ab811519cb952892408/241104/assets/Pasted%20image%2020241104010250.png)
 
 -   此时就可以使用命令行测试解析的结果
 
